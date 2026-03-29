@@ -1,22 +1,41 @@
 body{
     font-family: Arial;
     margin:0;
+    background-image: url(ribbon.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     
    
     
 }
 
 header{
-    background:rgba(0, 72, 255, 0.467);
-    color:white;
+    background:rgba(166, 6, 6, 0);
+    color:rgba(255, 1, 1, 0.66);
     text-align:center;
+    font-size: 4em;
+    font-weight: 800;
+    text-shadow: 3px 3px 6px rgb(99, 98, 98);
     padding:20px;
+    font-family: calibri ;
+    font-style: bold;
+}
+header p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: calibri;
 }
 
 nav{
-    background:black;
-    padding:10px;
-    text-align:center;
+    background:rgba(195, 6, 6, 0.877);
+    padding:5px;
+    border-radius: 0cm;
+    border-style: solid;
+    border-color: rgba(255, 0, 0, 0);
+    border-radius: 500px;
+    text-align: center;
+    
 }
 
 nav a{
@@ -27,11 +46,12 @@ nav a{
 
 section{
     padding:20px;
+    color: #d32d2d;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover
 }
 
-h2{
-    color:red;
-}
 
 footer{
     background:black;
