@@ -10,7 +10,9 @@ body{
     
 }
 
-header{
+header h1
+{
+    
     background:rgba(166, 6, 6, 0);
     color:rgba(255, 1, 1, 0.66);
     text-align:center;
@@ -35,11 +37,10 @@ nav{
     border-color: rgba(255, 0, 0, 0);
     border-radius: 500px;
     text-align: center;
-    
 }
 
 nav a{
-    color:white;
+    color:rgb(255, 255, 255);
     margin:15px;
     text-decoration:none;
 }
@@ -55,7 +56,7 @@ section{
 
 footer{
     background:black;
-    color:white;
+    color:rgb(255, 255, 255);
     text-align:center;
     padding:10px;
 }
