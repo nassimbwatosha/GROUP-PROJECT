@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Use Condoms for protection </title>
+    <link rel="shortcut icon" href="aids.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+    <h1>Use of Condoms for safety</h1>
+    </header>
+    <h3>Health Benefits</h3>
+    <ul>
+        <li>Reduced risk of STIs: Condoms  protect one from contacting diseases from the other .</li>
+        <li>helps in family planing: Condoms help families and individues from unwanted pregnancies.</li>
+    </ul>
+</body>
+</html>
